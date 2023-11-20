@@ -105,4 +105,5 @@ async function main() {
   await JDprice();
 }
 
+// main();
 sort();
