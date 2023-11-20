@@ -1,0 +1,2087 @@
+[
+  {
+    "name": "Intel Core i9-13900KS",
+    "score": 3094,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i9-13900KF",
+    "score": 2972,
+    "price": 5098
+  },
+  {
+    "name": "Intel Core i9-13900K",
+    "score": 2966,
+    "price": 4299
+  },
+  {
+    "name": "AMD Ryzen 9 7950X",
+    "score": 2924,
+    "price": 3699
+  },
+  {
+    "name": "AMD Ryzen 9 7950X3D",
+    "score": 2909,
+    "price": 4699
+  },
+  {
+    "name": "AMD Ryzen 9 7900X",
+    "score": 2899,
+    "price": 2599
+  },
+  {
+    "name": "AMD Ryzen 7 7700X",
+    "score": 2896,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-13700KF",
+    "score": 2859,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 7600X",
+    "score": 2846,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-13700K",
+    "score": 2827,
+    "price": 2999
+  },
+  {
+    "name": "AMD Ryzen 9 7900",
+    "score": 2825,
+    "price": 2599
+  },
+  {
+    "name": "AMD Ryzen 7 7700",
+    "score": 2812,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 9 7900X3D",
+    "score": 2795,
+    "price": 3599
+  },
+  {
+    "name": "AMD Ryzen 5 7600",
+    "score": 2727,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 7800X3D",
+    "score": 2715,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i9-13900",
+    "score": 2709,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i9-12900KS",
+    "score": 2700,
+    "price": 5999
+  },
+  {
+    "name": "Intel Core i5-13600KF",
+    "score": 2698,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 9 7945HX",
+    "score": 2697,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-13900F",
+    "score": 2689,
+    "price": 4099
+  },
+  {
+    "name": "AMD Ryzen 7 7745HX",
+    "score": 2661,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-13600K",
+    "score": 2657,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i7-13700F",
+    "score": 2654,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 9 7845HX",
+    "score": 2648,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-13700",
+    "score": 2636,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i9-12900K",
+    "score": 2606,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-12900F",
+    "score": 2545,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-12900KF",
+    "score": 2522,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i7-12700K",
+    "score": 2508,
+    "price": 2499
+  },
+  {
+    "name": "Intel Core i7-12700KF",
+    "score": 2504,
+    "price": 2199
+  },
+  {
+    "name": "AMD Ryzen 9 7940HS",
+    "score": 2486,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-12900",
+    "score": 2464,
+    "price": 1485
+  },
+  {
+    "name": "Intel Core i5-12600KF",
+    "score": 2447,
+    "price": 3548
+  },
+  {
+    "name": "Intel Core i5-12600K",
+    "score": 2435,
+    "price": 3548
+  },
+  {
+    "name": "Intel Core i7-13700T",
+    "score": 2406,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-13600",
+    "score": 2401,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i5-13500",
+    "score": 2399,
+    "price": 3548
+  },
+  {
+    "name": "AMD Ryzen 7 7840HS",
+    "score": 2396,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-13600T",
+    "score": 2386,
+    "price": 2099
+  },
+  {
+    "name": "Intel Xeon w7-2495X",
+    "score": 2374,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i9-11900K",
+    "score": 2369,
+    "price": 1485
+  },
+  {
+    "name": "Intel Core i5-12600",
+    "score": 2362,
+    "price": 3548
+  },
+  {
+    "name": "Intel Xeon E-2388G",
+    "score": 2346,
+    "price": 4570
+  },
+  {
+    "name": "AMD Ryzen 5 7640HS",
+    "score": 2337,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-12700F",
+    "score": 2335,
+    "price": 2149
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 7840HS",
+    "score": 2315,
+    "price": 839
+  },
+  {
+    "name": "Intel Core i9-11900KF",
+    "score": 2302,
+    "price": 1485
+  },
+  {
+    "name": "Intel Core i7-12700E",
+    "score": 2301,
+    "price": 2199
+  },
+  {
+    "name": "Intel Core i9-12900T",
+    "score": 2295,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen Z1 Extreme",
+    "score": 2286,
+    "price": 19800
+  },
+  {
+    "name": "Intel Core i5-13400F",
+    "score": 2279,
+    "price": 1549
+  },
+  {
+    "name": "Intel Core i5-12500",
+    "score": 2277,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-13400",
+    "score": 2277,
+    "price": 3043
+  },
+  {
+    "name": "Intel Core i3-13100F",
+    "score": 2277,
+    "price": 899
+  },
+  {
+    "name": "Intel Core i5-13400T",
+    "score": 2277,
+    "price": 3548
+  },
+  {
+    "name": "Intel Core i3-12300",
+    "score": 2258,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i7-12700T",
+    "score": 2253,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i3-13100",
+    "score": 2245,
+    "price": 899
+  },
+  {
+    "name": "Intel Core i7-11700KF",
+    "score": 2244,
+    "price": 2347
+  },
+  {
+    "name": "Intel Core i5-13500T",
+    "score": 2231,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i7-12700",
+    "score": 2217,
+    "price": 2499
+  },
+  {
+    "name": "Intel Core i3-12100F",
+    "score": 2216,
+    "price": 749
+  },
+  {
+    "name": "Intel Core i7-11700K",
+    "score": 2212,
+    "price": 2999
+  },
+  {
+    "name": "Intel Core i5-12600T",
+    "score": 2189,
+    "price": 3548
+  },
+  {
+    "name": "Intel Core i5-12400F",
+    "score": 2184,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-11900F",
+    "score": 2181,
+    "price": 4099
+  },
+  {
+    "name": "AMD Ryzen 9 5950X",
+    "score": 2179,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-11600KF",
+    "score": 2176,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i5-12500T",
+    "score": 2174,
+    "price": 1099
+  },
+  {
+    "name": "Intel Xeon w5-2455X",
+    "score": 2172,
+    "price": 9989
+  },
+  {
+    "name": "AMD Ryzen 9 5900X",
+    "score": 2171,
+    "price": 1699
+  },
+  {
+    "name": "AMD Ryzen 7 5800X",
+    "score": 2171,
+    "price": 1999
+  },
+  {
+    "name": "Intel Xeon W-1350",
+    "score": 2171,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-11600K",
+    "score": 2168,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-12400",
+    "score": 2168,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 7840U",
+    "score": 2157,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i3-12100",
+    "score": 2138,
+    "price": 749
+  },
+  {
+    "name": "Intel Core i5-11600",
+    "score": 2131,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i9-11900",
+    "score": 2119,
+    "price": 1485
+  },
+  {
+    "name": "Intel Xeon W-11955M",
+    "score": 2116,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 7 5700X",
+    "score": 2114,
+    "price": 1189
+  },
+  {
+    "name": "Intel Xeon w9-3495X",
+    "score": 2114,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 9 PRO 5945",
+    "score": 2112,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5955WX",
+    "score": 2100,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-11700F",
+    "score": 2094,
+    "price": 2799
+  },
+  {
+    "name": "AMD Ryzen 7 7840U",
+    "score": 2085,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-11700",
+    "score": 2084,
+    "price": 2999
+  },
+  {
+    "name": "AMD Ryzen 7 5800X3D",
+    "score": 2083,
+    "price": 1999
+  },
+  {
+    "name": "AMD Ryzen 5 5600X",
+    "score": 2082,
+    "price": 839
+  },
+  {
+    "name": "Intel Core i5-12400T",
+    "score": 2079,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5965WX",
+    "score": 2064,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 5600X3D",
+    "score": 2064,
+    "price": 839
+  },
+  {
+    "name": "Intel Pentium Gold G7400",
+    "score": 2060,
+    "price": 1109
+  },
+  {
+    "name": "Intel Core i9-11900T",
+    "score": 2059,
+    "price": 1485
+  },
+  {
+    "name": "AMD Ryzen 9 5900",
+    "score": 2049,
+    "price": 1699
+  },
+  {
+    "name": "AMD Ryzen 7 5800",
+    "score": 2048,
+    "price": 1999
+  },
+  {
+    "name": "Intel Xeon w9-3475X",
+    "score": 2048,
+    "price": 31999
+  },
+  {
+    "name": "Intel Core i3-13100T",
+    "score": 2043,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5975WX",
+    "score": 2038,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 5600",
+    "score": 2017,
+    "price": 799
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5945WX",
+    "score": 2016,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-11390H",
+    "score": 1998,
+    "price": 2699
+  },
+  {
+    "name": "Intel Xeon W-11855M",
+    "score": 1994,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5995WX",
+    "score": 1987,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-11500",
+    "score": 1983,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 7 5700G",
+    "score": 1980,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 9 6900HX",
+    "score": 1978,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-11850H",
+    "score": 1968,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 7 7735HS",
+    "score": 1964,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-11400F",
+    "score": 1955,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5750G",
+    "score": 1943,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-11400",
+    "score": 1935,
+    "price": 3548
+  },
+  {
+    "name": "Intel Core i3-12100T",
+    "score": 1932,
+    "price": 749
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5750GE",
+    "score": 1932,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-12900TE",
+    "score": 1923,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 9 5980HX",
+    "score": 1922,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 5600G",
+    "score": 1911,
+    "price": 799
+  },
+  {
+    "name": "AMD EPYC 9554",
+    "score": 1904,
+    "price": 32899
+  },
+  {
+    "name": "Intel Core i7-1265U",
+    "score": 1903,
+    "price": 3338
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5650GE",
+    "score": 1903,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-11500H",
+    "score": 1898,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i7-11800H",
+    "score": 1893,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5650G",
+    "score": 1891,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 6800H",
+    "score": 1873,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 6850HS",
+    "score": 1865,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-11600H",
+    "score": 1865,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-1235U",
+    "score": 1864,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 5 5500",
+    "score": 1855,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-1195G7",
+    "score": 1854,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 9 6900HS",
+    "score": 1852,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-11375H",
+    "score": 1845,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-11320H",
+    "score": 1838,
+    "price": 2798
+  },
+  {
+    "name": "AMD Ryzen 9 5900HX",
+    "score": 1834,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon E-2378",
+    "score": 1834,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i3-1215U",
+    "score": 1832,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 6650H",
+    "score": 1820,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon w5-2445",
+    "score": 1817,
+    "price": 4299
+  },
+  {
+    "name": "AMD EPYC 9654",
+    "score": 1812,
+    "price": 34209
+  },
+  {
+    "name": "Intel Core i5-11400H",
+    "score": 1810,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 7 6800HS",
+    "score": 1806,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 7735U",
+    "score": 1799,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-3375",
+    "score": 1789,
+    "price": 4299
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 6850U",
+    "score": 1781,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-13900E",
+    "score": 1777,
+    "price": 4299
+  },
+  {
+    "name": "AMD Ryzen 9 PRO 6950H",
+    "score": 1774,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 6600H",
+    "score": 1773,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 5350G",
+    "score": 1765,
+    "price": 1199
+  },
+  {
+    "name": "AMD EPYC 7443P",
+    "score": 1763,
+    "price": 18499
+  },
+  {
+    "name": "Intel Core i9-10900KF",
+    "score": 1762,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i5-7640X",
+    "score": 1761,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 7 7736U",
+    "score": 1758,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 3800XT",
+    "score": 1757,
+    "price": 999
+  },
+  {
+    "name": "Intel Core i9-10900K",
+    "score": 1752,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-9900KS",
+    "score": 1748,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 7 6800U",
+    "score": 1745,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-1155G7",
+    "score": 1745,
+    "price": 3043
+  },
+  {
+    "name": "Intel Xeon W-1290",
+    "score": 1742,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i7-1165G7",
+    "score": 1741,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 7 5800H",
+    "score": 1741,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-10850K",
+    "score": 1739,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-11260H",
+    "score": 1738,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i7-11370H",
+    "score": 1731,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i7-1185G7",
+    "score": 1729,
+    "price": 2799
+  },
+  {
+    "name": "Intel Core i7-11700T",
+    "score": 1727,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 7530U",
+    "score": 1726,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-1270P",
+    "score": 1720,
+    "price": 899
+  },
+  {
+    "name": "AMD Ryzen 9 3900XT",
+    "score": 1712,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5850U",
+    "score": 1712,
+    "price": 1199
+  },
+  {
+    "name": "AMD EPYC 9124",
+    "score": 1712,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-1145G7",
+    "score": 1710,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i7-10700K",
+    "score": 1704,
+    "price": 2499
+  },
+  {
+    "name": "AMD Ryzen 9 3950X",
+    "score": 1701,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 7535HS",
+    "score": 1699,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-1290P",
+    "score": 1697,
+    "price": 18499
+  },
+  {
+    "name": "AMD Ryzen 7 3800X",
+    "score": 1696,
+    "price": 999
+  },
+  {
+    "name": "Intel Core i7-10700KF",
+    "score": 1695,
+    "price": 2149
+  },
+  {
+    "name": "AMD Ryzen 5 3600XT",
+    "score": 1692,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-11500T",
+    "score": 1692,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-9600K",
+    "score": 1691,
+    "price": 2699
+  },
+  {
+    "name": "Intel Xeon W-1270",
+    "score": 1690,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 9 3900X",
+    "score": 1687,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-10900F",
+    "score": 1687,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-9900KF",
+    "score": 1686,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i5-11300H",
+    "score": 1685,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 3 5300G",
+    "score": 1685,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i9-10900",
+    "score": 1684,
+    "price": 1549
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 6650U",
+    "score": 1681,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 6600U",
+    "score": 1679,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-8086K",
+    "score": 1677,
+    "price": 1298
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 3955WX",
+    "score": 1676,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-10600KF",
+    "score": 1675,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 5 7535U",
+    "score": 1669,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen Threadripper 3960X",
+    "score": 1665,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 3700",
+    "score": 1665,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i3-1115G4E",
+    "score": 1662,
+    "price": 1485
+  },
+  {
+    "name": "Intel Core i7-9700K",
+    "score": 1660,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i7-9700KF",
+    "score": 1659,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 3975WX",
+    "score": 1659,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-9900K",
+    "score": 1658,
+    "price": 1485
+  },
+  {
+    "name": "AMD Ryzen 7 7730U",
+    "score": 1658,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5675U",
+    "score": 1658,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 9 PRO 3900",
+    "score": 1658,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 9 3900",
+    "score": 1657,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 5825U",
+    "score": 1656,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 3 3300X",
+    "score": 1651,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 6850H",
+    "score": 1651,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 6860Z",
+    "score": 1650,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 3945WX",
+    "score": 1648,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon E-2286G",
+    "score": 1648,
+    "price": 4516
+  },
+  {
+    "name": "AMD Ryzen 5 7530U",
+    "score": 1647,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 3700X",
+    "score": 1644,
+    "price": 999
+  },
+  {
+    "name": "Intel Core i5-10600K",
+    "score": 1643,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 7 5800U",
+    "score": 1641,
+    "price": 1999
+  },
+  {
+    "name": "Intel Core i7-7740X",
+    "score": 1638,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 3600",
+    "score": 1637,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-1250U",
+    "score": 1636,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 3600X",
+    "score": 1632,
+    "price": 1449
+  },
+  {
+    "name": "AMD Ryzen Threadripper 3970X",
+    "score": 1631,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-1230U",
+    "score": 1627,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-10910",
+    "score": 1626,
+    "price": 1549
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 4750G",
+    "score": 1621,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 5600U",
+    "score": 1618,
+    "price": 839
+  },
+  {
+    "name": "Intel Core i9-9900",
+    "score": 1607,
+    "price": 5098
+  },
+  {
+    "name": "Intel Core i7-10700F",
+    "score": 1602,
+    "price": 2149
+  },
+  {
+    "name": "Intel Xeon E-2236",
+    "score": 1602,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i5-1135G7",
+    "score": 1599,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 5 5600H",
+    "score": 1594,
+    "price": 839
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 3995WX",
+    "score": 1593,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5650U",
+    "score": 1592,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-10600",
+    "score": 1589,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 7730U",
+    "score": 1587,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 5 3600",
+    "score": 1586,
+    "price": 699
+  },
+  {
+    "name": "AMD Ryzen 5 5560U",
+    "score": 1585,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-11400T",
+    "score": 1583,
+    "price": 1999
+  },
+  {
+    "name": "Intel Core i5-9600KF",
+    "score": 1581,
+    "price": 1144
+  },
+  {
+    "name": "AMD EPYC 7713",
+    "score": 1581,
+    "price": 25599
+  },
+  {
+    "name": "Intel Core i9-10920X",
+    "score": 1574,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i9-10900X",
+    "score": 1572,
+    "price": 1549
+  },
+  {
+    "name": "Intel Core i7-8700K",
+    "score": 1571,
+    "price": 1298
+  },
+  {
+    "name": "Intel Core i9-10940X",
+    "score": 1571,
+    "price": 1549
+  },
+  {
+    "name": "Intel Xeon W-2245",
+    "score": 1569,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 5 4600G",
+    "score": 1568,
+    "price": 10289
+  },
+  {
+    "name": "AMD Ryzen 5 5625U",
+    "score": 1567,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-1068NG7",
+    "score": 1563,
+    "price": 2699
+  },
+  {
+    "name": "Intel Xeon E-2176G",
+    "score": 1563,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i7-10700",
+    "score": 1562,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i7-7700K",
+    "score": 1561,
+    "price": 1298
+  },
+  {
+    "name": "Intel Core i9-10980XE",
+    "score": 1561,
+    "price": 1549
+  },
+  {
+    "name": "Intel Xeon E-2136",
+    "score": 1560,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 9 4900H",
+    "score": 1559,
+    "price": 1199
+  },
+  {
+    "name": "Intel Celeron G6900E",
+    "score": 1559,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i3-1115G4",
+    "score": 1557,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen Threadripper 3990X",
+    "score": 1556,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5875U",
+    "score": 1555,
+    "price": 839
+  },
+  {
+    "name": "Intel Celeron G6900",
+    "score": 1554,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 4500",
+    "score": 1553,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-2235",
+    "score": 1547,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 4650G",
+    "score": 1545,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-10885H",
+    "score": 1543,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i7-9700",
+    "score": 1542,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 5 3500X",
+    "score": 1541,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-2265",
+    "score": 1541,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i7-9700F",
+    "score": 1539,
+    "price": 2799
+  },
+  {
+    "name": "AMD EPYC 7413",
+    "score": 1538,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-8700B",
+    "score": 1536,
+    "price": 1298
+  },
+  {
+    "name": "Intel Xeon E-2286M",
+    "score": 1535,
+    "price": 2799
+  },
+  {
+    "name": "Intel Xeon W-2255",
+    "score": 1534,
+    "price": 2099
+  },
+  {
+    "name": "Intel Xeon W-10885M",
+    "score": 1533,
+    "price": 2099
+  },
+  {
+    "name": "Intel Xeon E-2274G",
+    "score": 1530,
+    "price": 18499
+  },
+  {
+    "name": "Intel Core i5-10505",
+    "score": 1529,
+    "price": 3548
+  },
+  {
+    "name": "Intel Xeon E3-1275 v6",
+    "score": 1524,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i9-7980XE",
+    "score": 1519,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-10500",
+    "score": 1516,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 3 5425U",
+    "score": 1516,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 5450U",
+    "score": 1514,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-8600K",
+    "score": 1513,
+    "price": 6098
+  },
+  {
+    "name": "Intel Core i7-8700",
+    "score": 1508,
+    "price": 1298
+  },
+  {
+    "name": "Intel Xeon E-2224G",
+    "score": 1505,
+    "price": 12999
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 4650GE",
+    "score": 1503,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 4750GE",
+    "score": 1503,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-12500TE",
+    "score": 1502,
+    "price": 3548
+  },
+  {
+    "name": "AMD Ryzen 3 5400U",
+    "score": 1500,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-7600K",
+    "score": 1499,
+    "price": 1298
+  },
+  {
+    "name": "Intel Core i7-10875H",
+    "score": 1497,
+    "price": 2699
+  },
+  {
+    "name": "Intel Xeon W-2275",
+    "score": 1497,
+    "price": 4299
+  },
+  {
+    "name": "Intel Xeon W-2295",
+    "score": 1496,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i3-10105",
+    "score": 1490,
+    "price": 899
+  },
+  {
+    "name": "AMD Ryzen 5 3500",
+    "score": 1487,
+    "price": 548
+  },
+  {
+    "name": "AMD Ryzen 3 4100",
+    "score": 1481,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-10855M",
+    "score": 1476,
+    "price": 2099
+  },
+  {
+    "name": "Intel Xeon E-2224",
+    "score": 1474,
+    "price": 2800
+  },
+  {
+    "name": "Intel Core i7-6700K",
+    "score": 1473,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-9500F",
+    "score": 1473,
+    "price": 2798
+  },
+  {
+    "name": "Intel Xeon W-3175X",
+    "score": 1470,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-9500",
+    "score": 1468,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 3 3100",
+    "score": 1465,
+    "price": 299
+  },
+  {
+    "name": "Intel Xeon E-2146G",
+    "score": 1464,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i7-8569U",
+    "score": 1463,
+    "price": 3285
+  },
+  {
+    "name": "Intel Core i7-10850H",
+    "score": 1462,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i3-10105F",
+    "score": 1459,
+    "price": 1099
+  },
+  {
+    "name": "Intel Xeon E-2144G",
+    "score": 1453,
+    "price": 4570
+  },
+  {
+    "name": "Intel Core i3-8350K",
+    "score": 1452,
+    "price": 1298
+  },
+  {
+    "name": "AMD Ryzen 7 4800H",
+    "score": 1451,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-1250",
+    "score": 1450,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 9 4900HS",
+    "score": 1448,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon E3-1270 v6",
+    "score": 1448,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i7-10870H",
+    "score": 1444,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i9-9900X",
+    "score": 1442,
+    "price": 1549
+  },
+  {
+    "name": "Intel Xeon E-2276M",
+    "score": 1441,
+    "price": 4299
+  },
+  {
+    "name": "Intel Xeon E-2124G",
+    "score": 1439,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i7-10750H",
+    "score": 1438,
+    "price": 3178
+  },
+  {
+    "name": "Intel Core i5-1038NG7",
+    "score": 1437,
+    "price": 1099
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 4350G",
+    "score": 1434,
+    "price": 1199
+  },
+  {
+    "name": "AMD Ryzen 7 4800HS",
+    "score": 1432,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i9-7900X",
+    "score": 1431,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-9940X",
+    "score": 1431,
+    "price": 1549
+  },
+  {
+    "name": "Intel Core i5-9600",
+    "score": 1431,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-10500H",
+    "score": 1431,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i9-9900T",
+    "score": 1431,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-10400F",
+    "score": 1428,
+    "price": 699
+  },
+  {
+    "name": "Intel Core i3-1125G4",
+    "score": 1428,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i3-10100F",
+    "score": 1423,
+    "price": 749
+  },
+  {
+    "name": "Intel Core i9-9980HK",
+    "score": 1422,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i7-1260U",
+    "score": 1421,
+    "price": 3338
+  },
+  {
+    "name": "Intel Core i3-10100",
+    "score": 1420,
+    "price": 2099
+  },
+  {
+    "name": "Intel Xeon E3-1275 v5",
+    "score": 1418,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i9-10900T",
+    "score": 1418,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-10400",
+    "score": 1417,
+    "price": 699
+  },
+  {
+    "name": "Intel Core i5-8600",
+    "score": 1413,
+    "price": 1298
+  },
+  {
+    "name": "Intel Xeon W-3235",
+    "score": 1412,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i3-7350K",
+    "score": 1409,
+    "price": 1298
+  },
+  {
+    "name": "Intel Xeon W-2225",
+    "score": 1409,
+    "price": 2099
+  },
+  {
+    "name": "Intel Xeon W-2145",
+    "score": 1408,
+    "price": 4516
+  },
+  {
+    "name": "Intel Core i7-7820X",
+    "score": 1406,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-6600K",
+    "score": 1402,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i9-9980XE",
+    "score": 1398,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i7-5775C",
+    "score": 1397,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i7-10700T",
+    "score": 1396,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i3-7320",
+    "score": 1393,
+    "price": 1298
+  },
+  {
+    "name": "Intel Xeon W-2135 ",
+    "score": 1392,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i9-9920X",
+    "score": 1392,
+    "price": 1549
+  },
+  {
+    "name": "Intel Core i9-7960X",
+    "score": 1389,
+    "price": 1549
+  },
+  {
+    "name": "Intel Xeon W-3245",
+    "score": 1388,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-9800X",
+    "score": 1387,
+    "price": 2699
+  },
+  {
+    "name": "Intel Xeon W-3223",
+    "score": 1386,
+    "price": 2099
+  },
+  {
+    "name": "AMD Ryzen 7 5700U",
+    "score": 1386,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon E-2176M",
+    "score": 1385,
+    "price": 4299
+  },
+  {
+    "name": "Intel Core i9-9960X",
+    "score": 1384,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i5-8500",
+    "score": 1383,
+    "price": 6098
+  },
+  {
+    "name": "Intel Core i7-4790K",
+    "score": 1382,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-8809G",
+    "score": 1380,
+    "price": 2999
+  },
+  {
+    "name": "Intel Core i7-7700",
+    "score": 1379,
+    "price": 1298
+  },
+  {
+    "name": "Intel Core i5-9400",
+    "score": 1379,
+    "price": 1144
+  },
+  {
+    "name": "AMD Ryzen 7 4800U",
+    "score": 1378,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-9700T",
+    "score": 1374,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-9400H",
+    "score": 1374,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-8500B",
+    "score": 1373,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i3-9100F",
+    "score": 1369,
+    "price": 1099
+  },
+  {
+    "name": "Intel Core i5-9400F",
+    "score": 1367,
+    "price": 3548
+  },
+  {
+    "name": "Intel Core i9-8950HK",
+    "score": 1366,
+    "price": 2699
+  },
+  {
+    "name": "AMD Ryzen 7 4700U",
+    "score": 1365,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-9850H",
+    "score": 1362,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i3-9100",
+    "score": 1362,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i9-7940X",
+    "score": 1361,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i5-7600",
+    "score": 1360,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i5-10400H",
+    "score": 1358,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i5-10300H",
+    "score": 1357,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i9-9880H",
+    "score": 1354,
+    "price": -1
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 4750U",
+    "score": 1352,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i5-10600T",
+    "score": 1352,
+    "price": -1
+  },
+  {
+    "name": "Intel Xeon E3-1240 v6",
+    "score": 1351,
+    "price": -1
+  },
+  {
+    "name": "AMD Ryzen 5 4600H",
+    "score": 1348,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i7-9750H",
+    "score": 1345,
+    "price": -1
+  },
+  {
+    "name": "Intel Pentium Gold 7505",
+    "score": 1345,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-9750HF",
+    "score": 1344,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-9600T",
+    "score": 1344,
+    "price": 1549
+  },
+  {
+    "name": "Intel Core i5-8400",
+    "score": 1343,
+    "price": 1698
+  },
+  {
+    "name": "AMD Ryzen 5 4600U",
+    "score": 1342,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i9-7920X",
+    "score": 1340,
+    "price": -1
+  },
+  {
+    "name": "Intel Xeon W-2125",
+    "score": 1340,
+    "price": 1099
+  },
+  {
+    "name": "Intel Xeon W-2155",
+    "score": 1339,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-8559U",
+    "score": 1334,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-7800X",
+    "score": 1331,
+    "price": 2347
+  },
+  {
+    "name": "Intel Core i5-9300HF",
+    "score": 1321,
+    "price": 3043
+  },
+  {
+    "name": "Intel Xeon Platinum 8180",
+    "score": 1320,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-8700T",
+    "score": 1319,
+    "price": 1298
+  },
+  {
+    "name": "Intel Xeon E3-1230 v6",
+    "score": 1316,
+    "price": 20840
+  },
+  {
+    "name": "Intel Core i5-10200H",
+    "score": 1316,
+    "price": -1
+  },
+  {
+    "name": "AMD EPYC 7402",
+    "score": 1315,
+    "price": -1
+  },
+  {
+    "name": "Intel Xeon E-2186M",
+    "score": 1315,
+    "price": 2799
+  },
+  {
+    "name": "Intel Xeon W-2140B",
+    "score": 1314,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i7-8850H",
+    "score": 1308,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-7820HK",
+    "score": 1307,
+    "price": -1
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 4650U",
+    "score": 1305,
+    "price": 1199
+  },
+  {
+    "name": "Intel Xeon W-2150B",
+    "score": 1304,
+    "price": 2099
+  },
+  {
+    "name": "Intel Xeon E5-1660 v3",
+    "score": 1302,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-7567U",
+    "score": 1300,
+    "price": -1
+  },
+  {
+    "name": "AMD Ryzen 5 4600HS",
+    "score": 1298,
+    "price": 1199
+  },
+  {
+    "name": "Intel Core i3-6320",
+    "score": 1298,
+    "price": -1
+  },
+  {
+    "name": "Intel Xeon E3-1245 v5",
+    "score": 1294,
+    "price": 1099
+  },
+  {
+    "name": "Intel Xeon E3-1240 v5",
+    "score": 1294,
+    "price": 2699
+  },
+  {
+    "name": "Intel Xeon E3-1270 v5",
+    "score": 1292,
+    "price": 2099
+  },
+  {
+    "name": "Intel Core i7-8750H",
+    "score": 1288,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i5-6600",
+    "score": 1287,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i5-4690K",
+    "score": 1285,
+    "price": 2699
+  },
+  {
+    "name": "Intel Xeon Gold 6136 ",
+    "score": 1285,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-6700",
+    "score": 1283,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i5-8400H",
+    "score": 1283,
+    "price": 1298
+  },
+  {
+    "name": "AMD Ryzen 5 5500U",
+    "score": 1283,
+    "price": -1
+  },
+  {
+    "name": "Intel Xeon E3-1285L v4",
+    "score": 1283,
+    "price": -1
+  },
+  {
+    "name": "Intel Xeon Processor E5-1680 v3",
+    "score": 1283,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-1060NG7",
+    "score": 1282,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-6950X",
+    "score": 1278,
+    "price": 2699
+  },
+  {
+    "name": "Intel Core i3-8300",
+    "score": 1277,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i7-5960X",
+    "score": 1276,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i3-1005G1",
+    "score": 1274,
+    "price": -1
+  },
+  {
+    "name": "Intel Core i5-5675C",
+    "score": 1273,
+    "price": 1099
+  }
+]

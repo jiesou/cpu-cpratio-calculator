@@ -1,0 +1,17 @@
+{
+  "name": "cpu-cpratio-calculator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "jiesou",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2"
+  }
+}

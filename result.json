@@ -1,0 +1,62 @@
+[
+  {
+    "name": "AMD Ryzen 3 3100",
+    "score": 1465,
+    "price": 299,
+    "cp_ratio": 4.8996655518394645
+  },
+  {
+    "name": "Intel Core i3-12100F",
+    "score": 2216,
+    "price": 749,
+    "cp_ratio": 2.958611481975968
+  },
+  {
+    "name": "Intel Core i3-12100",
+    "score": 2138,
+    "price": 749,
+    "cp_ratio": 2.854472630173565
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 7840HS",
+    "score": 2315,
+    "price": 839,
+    "cp_ratio": 2.7592371871275327
+  },
+  {
+    "name": "AMD Ryzen 5 3500",
+    "score": 1487,
+    "price": 548,
+    "cp_ratio": 2.7135036496350367
+  },
+  {
+    "name": "Intel Core i3-12100T",
+    "score": 1932,
+    "price": 749,
+    "cp_ratio": 2.5794392523364484
+  },
+  {
+    "name": "Intel Core i3-13100F",
+    "score": 2277,
+    "price": 899,
+    "cp_ratio": 2.532814238042269
+  },
+  {
+    "name": "AMD Ryzen 5 5600",
+    "score": 2017,
+    "price": 799,
+    "cp_ratio": 2.5244055068836047
+  },
+  {
+    "name": "Intel Core i3-13100",
+    "score": 2245,
+    "price": 899,
+    "cp_ratio": 2.4972191323692994
+  },
+  {
+    "name": "AMD Ryzen 5 5600X",
+    "score": 2082,
+    "price": 839,
+    "cp_ratio": 2.4815256257449345
+  }
+]
